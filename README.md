@@ -9,4 +9,5 @@ c. Internal mixing of dust and snow
 
 d. SZA dependence of solar irradiance
 
-Reference: SNICAR_AD v3: https://gmd.copernicus.org/preprints/gmd-2021-182/; https://github.com/mflanner/SNICARv3
+Reference: SNICAR_AD v3: https://gmd.copernicus.org/preprints/gmd-2021-182/;
+                         https://github.com/mflanner/SNICARv3
